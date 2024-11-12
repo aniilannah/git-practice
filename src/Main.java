@@ -10,5 +10,8 @@ public class Main {
         int number = 10;
         System.out.println(number);
 
+        String [] cars = {"BMW", "Audi", "Mersu"};
+        System.out.println(cars);
+
     }
 }
