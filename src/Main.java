@@ -5,7 +5,6 @@ public class Main {
 
         System.out.printf("Hello people!");
         String text = "New world";
-
         System.out.println(text);
 
     }
